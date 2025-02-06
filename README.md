@@ -25,11 +25,5 @@ Your application should do the following:
 ### OUTPUT APPLICATION :
 ![out](https://github.com/KrishGaur1354/Email-Administration-Application/blob/main/CodePics/Main-Output.png)
 
-# CONNECT WITH ME : 
-  <a href="https://twitter.com/ThatOneKrish">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-   <a href="https://www.instagram.com/ThatOneKrish/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
+
 
